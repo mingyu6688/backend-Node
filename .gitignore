@@ -1,0 +1,6 @@
+# Node.js 관련 파일들
+node_modules/
+
+# 개인 설정 파일
+*.env
+*.log
